@@ -90,3 +90,8 @@ img {
     grid-auto-flow: column;
     align-items: center;
 }
+
+.first-paragraph::first-letter {
+    font-size: 6rem;
+    color: orangered;
+}
